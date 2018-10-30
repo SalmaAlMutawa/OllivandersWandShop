@@ -11,14 +11,14 @@ const wands = [
     wood: "Willow",
     length: 14,
     imageUrl:
-      "hhttps://vignette.wikia.nocookie.net/harrypotter/images/6/62/RonWeasleyWandNN8413.jpg/revision/latest?cb=20141208232815"
+      "https://vignette.wikia.nocookie.net/harrypotter/images/6/62/RonWeasleyWandNN8413.jpg/revision/latest?cb=20141208232815"
   },
   {
     core: "Phoenix Feather",
     wood: "Yew",
     length: 13.5,
     imageUrl:
-      "hhttps://vignette.wikia.nocookie.net/harrypotter/images/5/5a/LordVoldemortWandNN8403.jpg/revision/latest?cb=20141208232950"
+      "https://vignette.wikia.nocookie.net/harrypotter/images/5/5a/LordVoldemortWandNN8403.jpg/revision/latest?cb=20141208232950"
   },
   {
     core: "Unicorn Hair",
