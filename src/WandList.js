@@ -7,10 +7,14 @@ class WandList extends Component {
       <WandCard wand={wand} key={wand.wood} />
     ));
     return (
-      <div>
-        <div style={{ backgroundColor: "blue" }} className="container">
+      <div
+        style={{
+          backgroundImage: `url(https://images7.alphacoders.com/909/909541.jpg)`
+        }}
+      >
+        <div className="container">
           <div>
-            <h3>Ollivander's Wand Shop!</h3>
+            <h3 style={{ color: "white" }}>Ollivander's Wand Shop!</h3>
             <div className="row">{wandcard}</div>
           </div>
         </div>

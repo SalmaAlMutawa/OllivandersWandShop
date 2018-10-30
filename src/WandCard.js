@@ -5,8 +5,8 @@ class WandCard extends Component {
   render() {
     return (
       <div className="col-lg-4 col-md-6 col-12">
-        <div className="card mb-5" style={{ backgroundColor: "lightblue" }}>
-          <div className="image">
+        <div className="card mb-5" style={{ backgroundColor: "white" }}>
+          <div>
             <img
               className="card-img-top img-fluid"
               src={this.props.wand.imageUrl}
